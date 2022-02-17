@@ -1,0 +1,17 @@
+.card {
+
+    background-image: url(./img/equilibrium.jpg);
+}
+
+.icon {
+    background-image: url(./img/icon-ethereum.svg);
+}
+
+.dayLeft {
+    background-image: url(./img/icon-clock.svg);
+}
+
+.creator {
+    background-image: url(./img/avatar.png);
+
+}
