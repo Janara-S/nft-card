@@ -1,1 +1,1 @@
-# https://janara-s.github.io/nft-card/
+# https://janara-s.github.io/nft-card
